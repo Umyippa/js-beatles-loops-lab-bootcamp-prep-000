@@ -13,6 +13,6 @@ function johnLennonFacts(facts) {
   const loudFacts = []
   let i = 0
   while (i < facts.length) {
-    
+    loudFacts.push
   }
 }
