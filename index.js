@@ -21,6 +21,7 @@ function johnLennonFacts(facts) {
 
 
 function iLoveTheBeatles(n) {
-  const number = []
+  const arr = []
+  
   
 }
