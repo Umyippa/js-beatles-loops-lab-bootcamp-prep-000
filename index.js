@@ -11,4 +11,5 @@ function theBeatlesPlay(musicians, instruments) {
 
 function johnLennonFacts(facts) {
   const loudFacts = []
+  let i = 0
 }
